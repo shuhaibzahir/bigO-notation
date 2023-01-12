@@ -8,4 +8,10 @@ function addUpto(range){
 }
 
 
+function d(n){
+    for(let i = 1; i<= Math.min(3,n); i++){
+        console.log(i)
+    }
+}
+
 /* here you can see the operations will happend one time only */
